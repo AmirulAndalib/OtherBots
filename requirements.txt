@@ -3,4 +3,4 @@ https://github.com/TelegramPlayGround/Telethon/archive/57b6904.zip
 cryptg==0.4.0
 
 # GET / POST network requests
-aiohttp==3.8.3
+aiohttp==3.14.4
